@@ -18,4 +18,4 @@ Text
 
 ---
 
-* [Blog Entry 1](entr
+* [Blog Entry 1](entries/entry01.md)
