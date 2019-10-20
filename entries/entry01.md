@@ -1,6 +1,8 @@
 # Entry 1
 
-This year we were given the oportunity to take everything we have learned in our time in SEP to make a STEM related site to benefit society.  Of course, this would not take a short amount of time, we are given the whole school year to think of ideas of what we would like to do and better our skills in certain types of software programs.  Everything most people decide to make is usually to make our lives easier in a positive way, so therefore I would like to make a type of site that would simplify science related courses to students who don't understand the subject that well.  I believe that this is a great idea because it would heavily benefit students who stuggle with the subject.  I may not be able to make them a top student, which isn't really the purpose, but I would at least give the student a better understanding of a topic than a textbook would.
+  I've always have been interested in the way someone thinks & feels.  I want to use this time to research about how different types of students feel about their situation and how they are able to keep calm about it.  For example, a group of students that face a lot of stress are student athletes. I would love to know how these students feel & how they are able to get over their stress through all the hardwork they put in their sports. This is why I decide to focus on the mental health on high students & gather information in how these students are able to get over their stress.
+
+  Most students are constantly pushing themselves to be the very best, but doing this isn't the easiet thing in life.  At this starting point I feel that these students are facing negative emotions due to all the work they are given, but that doesn't mean that they aren't able to get over it.  Therefore, with a good amount of research I will be able to figure out different ways to help students get over their challenges.
 
 
 [Home](../README.md)
